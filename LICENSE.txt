@@ -1,0 +1,22 @@
+Matlab codes for the simulations in the manuscript "A Reduced Order Controller for Output Tracking of a Kelvin--Voigt Beam" by Lassi Paunonen and Duy Phan, submitted to the Proceedings of the Mathematical Theory of Networks and Systems 2020.
+Copyright (C) 2020 by Lassi Paunonen.
+
+This program is free software: you can redistribute it and/or modify
+it under the terms of the GNU General Public License as published by
+the Free Software Foundation, either version 3 of the License, or
+(at your option) any later version.
+
+This program is distributed in the hope that it will be useful,
+but WITHOUT ANY WARRANTY; without even the implied warranty of
+MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+GNU General Public License for more details.
+
+For a copy of the GNU General Public License, see <https://www.gnu.org/licenses/gpl.txt>.
+
+Contact details:
+Assistant Professor Lassi Paunonen
+Email: lassi.paunonen@tuni.fi
+Mathematics
+Faculty of Information Technology and Communication Sciences
+Tampere University
+PO. Box 692, 33101 Tampere, Finland
