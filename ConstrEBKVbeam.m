@@ -59,7 +59,8 @@ B0 = M\(QB*diag([pi;pi/2*ones(N+2,1)])*[chebcoeffs(b1fun),chebcoeffs(b2fun)]);
 B = [zeros(N-1,2);B0];
 
 % Construct the output matrix C
-C0 = [chebyshevT(0:(N+2),xi1);chebyshevT(0:(N+2),xi2)]*QB';
+C_polyT= chebpoly(0:(N+2));
+C0 = [C_polyT(xi1);C_polyT(xi2)]*QB';
 C = [C0,zeros(2,N-1)];
 
 
